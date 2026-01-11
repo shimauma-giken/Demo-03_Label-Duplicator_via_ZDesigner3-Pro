@@ -69,7 +69,7 @@
 
     #### ワンポイント解説
 
-    123Scanでスクラッチから設定をする場合は下記設定内容か、添付の[123Scan設定ファイル](./Config%20File_DS9208_Untitled1_2023.09.23.scncfg)を参考に設定をすること。</br>
+    123Scanでスクラッチから設定をする場合は下記設定内容か、添付の[123Scan設定ファイル](./Barcode-DS9308_delay-00ms.scncfg)を参考に設定をすること。</br>
    <img src="./config-01.png">
 </br>
 
