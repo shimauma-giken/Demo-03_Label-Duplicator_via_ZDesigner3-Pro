@@ -82,8 +82,8 @@
    <img width="500" src="./connected.png"> 
    </br>
 
-2. 本ページに添付されている下記ファイルをZDesigner 3 Proで起動する。
-   [Label-Duplicator-Demo.nlbl](Label-Duplicator-Demo.nlbl)
+2. 本ページに添付されている下記ファイルをZDesigner 3 Proで起動する。</br>
+   [サンプルプログラム：Label-Duplicator-Demo.nlbl](Label-Duplicator-Demo.nlbl)
    </br>
 
 3. **ファイル** → **印刷**を選択し、印刷画面に遷移する。
