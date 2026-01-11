@@ -51,7 +51,7 @@
 3. PC <--> プリンタ接続用のUSBケーブル
 </br>
 
-**モバイルプリンタ＋Bluetoothスキャナのデモをご要望の方は、下記リンクを参照ください**。
+**モバイルプリンタ＋Bluetoothスキャナのデモをご要望の方は、下記リンクを参照ください**。</br>
 [「デモ・シリーズ Vol.01」ラベル・デュプリケータ_ZBI編](https://github.com/shimauma-giken/Demo-01_Label_Duplicator) </br></br>
 
 ## 1. 123Scan操作：スキャナの設定
